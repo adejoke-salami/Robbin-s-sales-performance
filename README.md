@@ -1,1 +1,1 @@
-# Robbin-s-sales-performance
+This project involves creating a comprehensive Power BI report for Robbins Office Supplies, the world’s largest office supplies company specializing in bikes, clothing, and accessories with over 2,000 retail stores worldwide. Despite their global success, certain regions have faced low revenues and reduced footfall. The goal of this report is to analyze the company's performance from 2015 to 2017 to help inform a customer-centric strategy aimed at improving profitability.
